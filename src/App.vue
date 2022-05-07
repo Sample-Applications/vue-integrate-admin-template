@@ -1,7 +1,6 @@
 <script setup>
 import TopBar from './components/TopBar.vue'
 import SideBar from './components/SideBar.vue'
-import Dashboard from './components/Dashboard.vue'
 import Footer from './components/Footer.vue'
 </script>
 
