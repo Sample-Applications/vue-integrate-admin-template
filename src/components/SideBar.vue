@@ -116,7 +116,7 @@
 
         <!-- Sidebar Message -->
         <div class="sidebar-card d-none d-lg-flex">
-            <img class="sidebar-card-illustration mb-2" src="public/img/undraw_rocket.svg" alt="...">
+            <img class="sidebar-card-illustration mb-2" src="/img/undraw_rocket.svg" alt="...">
             <p class="text-center mb-2"><strong>Pro Edition</strong> is packed with advanced features and more!</p>
             <a class="btn btn-success btn-sm" href="#">Upgrade to Pro!</a>
         </div>
